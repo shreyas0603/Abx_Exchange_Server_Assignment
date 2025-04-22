@@ -1,0 +1,14 @@
+C:\Users\shreyas.c\Desktop\AbxProject\bin\Debug\net7.0\AbxProject.exe
+C:\Users\shreyas.c\Desktop\AbxProject\bin\Debug\net7.0\AbxProject.deps.json
+C:\Users\shreyas.c\Desktop\AbxProject\bin\Debug\net7.0\AbxProject.runtimeconfig.json
+C:\Users\shreyas.c\Desktop\AbxProject\bin\Debug\net7.0\AbxProject.dll
+C:\Users\shreyas.c\Desktop\AbxProject\bin\Debug\net7.0\AbxProject.pdb
+C:\Users\shreyas.c\Desktop\AbxProject\obj\Debug\net7.0\AbxProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreyas.c\Desktop\AbxProject\obj\Debug\net7.0\AbxProject.AssemblyInfoInputs.cache
+C:\Users\shreyas.c\Desktop\AbxProject\obj\Debug\net7.0\AbxProject.AssemblyInfo.cs
+C:\Users\shreyas.c\Desktop\AbxProject\obj\Debug\net7.0\AbxProject.csproj.CoreCompileInputs.cache
+C:\Users\shreyas.c\Desktop\AbxProject\obj\Debug\net7.0\AbxProject.dll
+C:\Users\shreyas.c\Desktop\AbxProject\obj\Debug\net7.0\refint\AbxProject.dll
+C:\Users\shreyas.c\Desktop\AbxProject\obj\Debug\net7.0\AbxProject.pdb
+C:\Users\shreyas.c\Desktop\AbxProject\obj\Debug\net7.0\AbxProject.genruntimeconfig.cache
+C:\Users\shreyas.c\Desktop\AbxProject\obj\Debug\net7.0\ref\AbxProject.dll
