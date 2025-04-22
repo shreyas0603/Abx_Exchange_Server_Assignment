@@ -1,5 +1,5 @@
 -->Requirements to run the project:
-1.) .net envirnoment installed in Visual Studio code .(You Can do it by running the command 'dotnet new console' in vs code)
+1.) .net envirnoment installed in Visual Studio code .(You Can do it by running the command 'dotnet new console' in vs code)  
 
 2.) node.js version 16.17.0 or above will work.
 
