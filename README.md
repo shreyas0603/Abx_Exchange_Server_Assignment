@@ -16,4 +16,7 @@
 
 Note: It is best to create to cmd terminal to run the project so that node server will run seperately and c# code will be executed seperately.
 
+If Running on CodeSandBox then u need to just take two terminals in one terminal use command 'node main.js' and in the other use 'dotnet run'
+
+
 If any help needed to  run the project . Please be free to contact me..  :)
